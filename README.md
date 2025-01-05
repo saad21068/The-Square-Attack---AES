@@ -1,6 +1,6 @@
 # The-Square-Attack---AES
 
-# SQUARE Attack Simulation Using AES-128
+# SQUARE Attack Simulation On AES-128
 
 ## Overview
 This repository demonstrates the **SQUARE attack**, a cryptanalysis technique, by leveraging the AES-128 encryption algorithm. The repository includes two Python scripts:
